@@ -11,3 +11,4 @@ sentence-transformers==5.2.3
 # CLI and web search
 rich==13.9.4
 ddgs==9.10.0
+reportlab==4.5.1
